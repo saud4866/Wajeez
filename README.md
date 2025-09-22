@@ -93,7 +93,7 @@ In the next tab, the user will be provided with:
 - Transcription Quality out of 100
 - Was there any wrong information or facts mentioned in the meeting?
 - Potential errors **If found**
-- A list of Technical terms, with their explination
+- A list of Technical terms, with their explaination
 
   ![firefox_2uS3cPYBZ5](https://github.com/user-attachments/assets/06c66033-1ce8-4861-b151-1b45d3ac0b3b)
 
