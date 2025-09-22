@@ -47,11 +47,67 @@ This pipeline takes audio input from different sources (meetings, calls, or cust
 ### Uploading or recording meetings
 
 Users can either upload a pre-recorded meeting audio file or start recording instantly by clicking the **Record Live** button
+
+
 <img width="2444" height="1183" alt="image" src="https://github.com/user-attachments/assets/c453d6cf-0719-4050-948a-0784691311c8" />
 
 
 ### Analysis of a meeting
 
-![image]([https://github.com/saud4866/Wajeez/blob/main/firefox_QeKgjbFdLP.gif?raw=true)
+After uploading the audio, the system will transcribe your meeting. and Generate a meeting summary that has: 
+
+  - Overview & Participants
+  - Key Discussion Points **Prioritized**
+  - Decisions Made
+  - Insights & Next Steps
+
+![image](https://github.com/user-attachments/assets/c6ce95c1-01b5-4f20-a22a-8743a541b1fe)
+
+
+
+### Tasks 
+
+In the next tab, the user will be provided with: 
+
+- Tasks assigned at the meeting **Prioritized**
+- Follow-up items list
+
+<img width="1461" height="1088" alt="image" src="https://github.com/user-attachments/assets/1d55bbe6-a7d4-4fd7-bbe7-d1494194e8d7" />
+
+
+### Improvements 
+
+In the next tab, the user will have on a scale out of 10, how effective his meeting was.
+
+- Strengths
+- Areas of improvement
+- Specific Recommendations
+- Best Practices to Adopt
+  
+![improvments](https://github.com/user-attachments/assets/1a3e6f26-56bf-4a9c-91f7-f5533af5fa38)
+
+### Fact-Check analysis
+
+In the next tab, the user will be provided with:
+
+- Transcription Quality out of 100
+- Was there any wrong information or facts mentioned in the meeting?
+- Potential errors **If found**
+- A list of Technical terms, with their explination
+
+  ![firefox_2uS3cPYBZ5](https://github.com/user-attachments/assets/06c66033-1ce8-4861-b151-1b45d3ac0b3b)
+
+
+### Chatbot
+
+In the top-left The user can discuss the meeting with AI Chatbot, The user can ask any question about the meeting, and the chatbot will use RAG to answer it from the transcription of the meeting
+
+
+![firefox_ga0snou1o3](https://github.com/user-attachments/assets/0695dbac-c945-4b4f-9d31-b04e543e5fcc)
+
+
+
+
+
 
 
